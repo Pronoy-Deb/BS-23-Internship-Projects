@@ -1,0 +1,14 @@
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\bin\Debug\net8.0\BBS.exe
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\bin\Debug\net8.0\BBS.deps.json
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\bin\Debug\net8.0\BBS.runtimeconfig.json
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\bin\Debug\net8.0\BBS.dll
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\bin\Debug\net8.0\BBS.pdb
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\BBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\BBS.AssemblyInfoInputs.cache
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\BBS.AssemblyInfo.cs
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\BBS.csproj.CoreCompileInputs.cache
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\BBS.dll
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\refint\BBS.dll
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\BBS.pdb
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\BBS.genruntimeconfig.cache
+C:\Users\Pronoy Debnath\source\repos\BBS\BBS\obj\Debug\net8.0\ref\BBS.dll
