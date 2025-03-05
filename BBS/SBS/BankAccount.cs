@@ -34,6 +34,7 @@ namespace SBS
             {
                 if (UserInfo[accountNumber].Balance >= amount)
                 {
+                    // git.code@hub.1222
                     UserInfo[accountNumber].Balance -= amount;
                     Console.WriteLine("Withdrawal successful!");
                 }
