@@ -1,0 +1,15 @@
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/bin/Debug/net8.0/SBS
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/bin/Debug/net8.0/SBS.deps.json
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/bin/Debug/net8.0/SBS.runtimeconfig.json
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/bin/Debug/net8.0/SBS.dll
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/bin/Debug/net8.0/SBS.pdb
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.GeneratedMSBuildEditorConfig.editorconfig
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.AssemblyInfoInputs.cache
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.AssemblyInfo.cs
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.csproj.CoreCompileInputs.cache
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.sourcelink.json
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.dll
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/refint/SBS.dll
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.pdb
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/SBS.genruntimeconfig.cache
+/home/pronoy/RiderProjects/BS-23-Internship-Projects/Simple Banking System/SBS/obj/Debug/net8.0/ref/SBS.dll
