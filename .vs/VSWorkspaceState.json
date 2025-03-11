@@ -1,14 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EmployeeAdminPortal",
     "\\EmployeeAdminPortal\\EmployeeAdminPortal",
-    "\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers",
     "\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models",
     "\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities",
     "\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj",
-    "\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties"
+    "\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties",
+    "\\Product Management Application",
+    "\\Product Management Application\\Product Management Application",
+    "\\Product Management Application\\Product Management Application\\Controllers",
+    "\\Product Management Application\\Product Management Application\\obj",
+    "\\Product Management Application\\Product Management Application\\Properties"
   ],
-  "SelectedNode": "\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+  "SelectedNode": "\\EmployeeAdminPortal",
   "PreviewInSolutionExplorer": false
 }

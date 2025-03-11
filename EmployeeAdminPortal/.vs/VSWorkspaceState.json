@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeeAdminPortal",
+    "\\EmployeeAdminPortal\\Controllers",
+    "\\EmployeeAdminPortal\\Data",
+    "\\EmployeeAdminPortal\\Migrations",
+    "\\EmployeeAdminPortal\\Models",
+    "\\EmployeeAdminPortal\\Models\\Entities",
+    "\\EmployeeAdminPortal\\obj",
+    "\\EmployeeAdminPortal\\Properties"
+  ],
+  "SelectedNode": "\\EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+  "PreviewInSolutionExplorer": false
+}

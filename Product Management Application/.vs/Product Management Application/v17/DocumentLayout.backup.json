@@ -1,12 +1,241 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\product management application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\product management application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|f:\\c#\\projects\\bs-23-internship-projects\\product management application\\product management application\\migrations\\20250311100645_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CD5311-C326-4E70-915F-28B6DB98F41E}|Product Management Application\\Product Management Application.csproj|solutionrelative:product management application\\migrations\\20250311100645_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Product Management Application\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Product Management Application\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:57:12.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product Management Application\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Product Management Application\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:47:25.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Product Management Application\\Views\\Products\\Create.cshtml",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Product Management Application\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:34:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Product Management Application\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Product Management Application\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:21:01.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product Management Application\\Views\\Products\\Index.cshtml",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Product Management Application\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:16:53.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Product Management Application\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Product Management Application\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T10:09:46.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250311100645_initial migration.cs",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Migrations\\20250311100645_initial migration.cs",
+              "RelativeDocumentMoniker": "Product Management Application\\Migrations\\20250311100645_initial migration.cs",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Migrations\\20250311100645_initial migration.cs",
+              "RelativeToolTip": "Product Management Application\\Migrations\\20250311100645_initial migration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:06:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product Management Application",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Product Management Application.csproj",
+              "RelativeDocumentMoniker": "Product Management Application\\Product Management Application.csproj",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Product Management Application.csproj",
+              "RelativeToolTip": "Product Management Application\\Product Management Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T09:57:19.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Program.cs",
+              "RelativeDocumentMoniker": "Product Management Application\\Program.cs",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Program.cs",
+              "RelativeToolTip": "Product Management Application\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:34:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Product Management Application\\appsettings.json",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\appsettings.json",
+              "RelativeToolTip": "Product Management Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T09:28:36.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Product Management Application\\Data\\ProductDbContext.cs",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "Product Management Application\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:23:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Product Management Application\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Product Management Application\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:15:41.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Product Management Application\\Models\\Product.cs",
+              "ToolTip": "F:\\C#\\Projects\\BS-23-Internship-Projects\\Product Management Application\\Product Management Application\\Models\\Product.cs",
+              "RelativeToolTip": "Product Management Application\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:55:48.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
