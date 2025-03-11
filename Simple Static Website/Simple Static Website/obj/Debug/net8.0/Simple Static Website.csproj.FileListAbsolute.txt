@@ -1,0 +1,34 @@
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\appsettings.Development.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\appsettings.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\Simple Static Website.staticwebassets.runtime.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\Simple Static Website.staticwebassets.endpoints.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\Simple Static Website.exe
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\Simple Static Website.deps.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\Simple Static Website.runtimeconfig.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\Simple Static Website.dll
+F:\C#\Projects\Simple Static Website\Simple Static Website\bin\Debug\net8.0\Simple Static Website.pdb
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.AssemblyInfoInputs.cache
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.AssemblyInfo.cs
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.csproj.CoreCompileInputs.cache
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.MvcApplicationPartsAssemblyInfo.cache
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.RazorAssemblyInfo.cache
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.RazorAssemblyInfo.cs
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\scopedcss\bundle\Simple Static Website.styles.css
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\scopedcss\projectbundle\Simple Static Website.bundle.scp.css
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets.build.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets.development.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets\msbuild.Simple Static Website.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets\msbuild.Simple Static Website.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets\msbuild.build.Simple Static Website.props
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Simple Static Website.props
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Simple Static Website.props
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.dll
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\refint\Simple Static Website.dll
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.pdb
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\Simple Static Website.genruntimeconfig.cache
+F:\C#\Projects\Simple Static Website\Simple Static Website\obj\Debug\net8.0\ref\Simple Static Website.dll
