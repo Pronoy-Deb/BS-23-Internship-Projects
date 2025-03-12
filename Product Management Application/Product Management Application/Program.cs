@@ -1,7 +1,11 @@
 using Product_Management_Application.Data;
 using Microsoft.EntityFrameworkCore;
+using Product_Management_Application.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
+//Register the repository
+builder.Services.AddScoped(typeof(IProductRepository<>), typeof(Repository<>));
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
