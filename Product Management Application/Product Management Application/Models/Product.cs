@@ -13,10 +13,10 @@ namespace Product_Management_Application.Models
 
         [Required(ErrorMessage = "Price is required .")]
         [Range(0.01, double.MaxValue, ErrorMessage = "Price must be greater than 0")]
-        public decimal Price { get; set; }
+        public decimal? Price { get; set; }
 
         [Required(ErrorMessage = "Stock Quantity is required.")]
         [Range(0, int.MaxValue, ErrorMessage = "Stock Quantity must be a positive integer or zero")]
-        public int StockQuantity { get; set; }
+        public int? StockQuantity { get; set; }
     }
 }

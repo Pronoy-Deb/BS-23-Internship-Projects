@@ -1,53 +1,98 @@
-﻿@* @{ *@
-@*     ViewData["Title"] = "Home Page"; *@
-@* } *@
+﻿ @model IList<Product>
 
-@* <div class="text-center"> *@
-@*     <h1 class="display-4">Welcome</h1> *@
-@*     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
-@* </div> *@
+ @{
+     ViewData["Title"] = "Products Page";
+ }
+
+ <div class="text-center">
+     <h1 class="display-4">Products</h1>
+     <a asp-action="Create" asp-controller="Products" class="btn btn-primary">Add New Product</a>
+     <table class="table">
+         <thead>
+             <tr>
+                 <th>
+                     Name
+                 </th>
+                 <th>
+                     Price
+                 </th>
+                 <th>
+                     Stock Quantity
+                 </th>
+                 <th>
+                     Actions
+                 </th>
+             </tr>
+         </thead>
+         <tbody>
+             @foreach (var item in Model)
+             {
+                 <tr>
+                     <td>
+                         @item.Name
+                     </td>
+                     <td>
+                         @item.Price
+                     </td>
+                     <td>
+                         @item.StockQuantity
+                     </td>
+                     <td>
+                         <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-secondary">Edit</a>
+                         <a href="#" class="btn btn-sm btn-danger" onclick="confirmDelete('@item.Id', '@item.Name'); return false;">Delete</a>
+                     </td>
+                 </tr>
+             }
+         </tbody>
+     </table>
+
+ </div>
+
+ <div class="modal fade" id="deleteConfirmationModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+     <div class="modal-dialog">
+         <div class="modal-content">
+             <div class="modal-header">
+                 <h5 class="modal-title" id="deleteModalLabel">Confirm Deletion</h5>
+                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+                 Are you sure you want to delete <strong><span id="productName"></span></strong>?
+             </div>
+             <div class="modal-footer">
+                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                 <a href="#" id="confirmDeleteBtn" class="btn btn-danger">Delete</a>
+             </div>
+         </div>
+     </div>
+ </div>
+
+ <script>
+     function confirmDelete(productId, productName) {
+         var deleteUrl = '/Products/Delete/' + productId;
+         document.getElementById("confirmDeleteBtn").href = deleteUrl;
+         document.getElementById("productName").innerText = productName;
+         var modal = new bootstrap.Modal(document.getElementById('deleteConfirmationModal'));
+         modal.show();
+      }
+ </script>
 
 
-@model IList<Product>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div id="successToast" class="toast align-items-center text-white bg-success border-0 position-fixed bottom-0 end-0 m-3" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="d-flex">
+            <div class="toast-body">
+                @TempData["SuccessMessage"]
+            </div>
+            <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+    </div>
 
-@{
-    ViewData["Title"] = "Products Page";
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var toastEl = document.getElementById('successToast');
+            var toast = new bootstrap.Toast(toastEl);
+            toast.show();
+        });
+    </script>
 }
-
-<div class="text-center">
-    <h1 class="display-4">Products</h1>
-    <a asp-action="Create" asp-controller="Products" class="btn btn-primary">Add New</a>
-    <table class="table">
-        <thead>
-            <tr>
-                <th>
-                    Name
-                </th>
-                <th>
-                    Price
-                </th>
-                <th>
-                    Actions
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>
-                        @item.Name
-                    </td>
-                    <td>
-                        @item.Price
-                    </td>
-                    <td>
-                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-secondary">Edit</a>
-                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-
-</div>
