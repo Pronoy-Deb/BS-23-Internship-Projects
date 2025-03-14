@@ -7,11 +7,19 @@
         <div class="form-group">
             <label>Name</label>
             <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
         </div>
         <div>
             <label>Bio</label>
             <input asp-for="Profile.Bio" class="form-control" />
+            <span asp-validation-for="Profile.Bio" class="text-danger"></span>
         </div>
         <button type="submit" class="btn btn-primary my-2">Save</button>
     </form>
 </div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
